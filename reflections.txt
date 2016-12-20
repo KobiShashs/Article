@@ -1,0 +1,14 @@
+* What new skills have you learned?
+
+- I learned html, Web IDEs  
+* What has been easy?
+
+- It was easy to break down the given code into divided areas as div, pharagrap etc.
+* What has been difficult?
+
+- The atom.io IDE... I use to the great auto completion of the Android studio (during the typing) 
+* How have you used the problem solving strategies from the first project to overcome 
+challenges so far?
+
+
+- I read, review samples and did it!
